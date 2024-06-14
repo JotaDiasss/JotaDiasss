@@ -1,4 +1,4 @@
-### Ola! Eu sou Joao Dias, Desenvolvedor Back-end
+### Ola! Eu sou Joao Dias, desenvolvedor junior Front-end
 
 <br>
 
