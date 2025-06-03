@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas:</strong> Visual Studio Code, Figma, Notion
+  💼 <strong>Ferramentas:</strong> Visual Studio Code, Figma, Notion, Markdown
 </p>
 
 <p align="left">
