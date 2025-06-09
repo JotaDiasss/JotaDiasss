@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens:</strong> HTML, CSS, JavaScript, Python
+  🦄 <strong>Linguagens:</strong> HTML, CSS, JavaScript, Python, C++
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas:</strong> Visual Studio Code, Figma, Notion, Markdown
+  💼 <strong>Ferramentas:</strong> Visual Studio Code, Figma, Notion, Markdown, Arduino IDE
 </p>
 
 <p align="left">
