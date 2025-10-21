@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td valign="top" align="center" width="70%">
+    <td valign="top" align="center" width="45%">
       <p><b>💻 My top languages</b></p>
       <img src="https://img.icons8.com/?size=100&id=23028&format=png&color=FFFFFF" alt="HTML" width="30">
       <img src="https://img.icons8.com/?size=100&id=38272&format=png&color=FFFFFF" alt="CSS" width="30">
@@ -25,8 +25,8 @@
         <img src="https://img.shields.io/badge/Email-white" height="25" alt="Email">
       </a>
     </td>
-    <td align="center" width="50%">
-      <img src="./Banner.png" alt="Banner" style="min-width: 300 ;max-width: 400; width: 100%">
+    <td align="center" width="55%">
+      <img src="./Banner.png" alt="Banner" style="min-width: 300px; max-width: 600px; width: 100%">
     </td>
   </tr>
 </table>
