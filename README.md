@@ -1,6 +1,6 @@
 <h1 style="color: lightblue" align="center"> Hello guys!<br>i'm João Dias</h1>
 <div>
-  <img src="./Banner.png" alt="Banner" align="right" style="max-width: 400px">
+  <img src="./Banner.png" alt="Banner" align="right" style="max-width: 300px">
   <div align="center">
     <p>My top languages</p>
     <img src="https://img.icons8.com/?size=100&id=23028&format=png&color=FFFFFF" alt="HTML" style="max-width: 40px">
