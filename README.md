@@ -25,8 +25,8 @@
         <img src="https://img.shields.io/badge/Email-white" height="25" alt="Email">
       </a>
     </td>
-    <td align="center" width="30%">
-      <img src="./Banner.png" alt="Banner" style="max-width: 400px; width: 100%">
+    <td align="center" width="35%">
+      <img src="./Banner.png" alt="Banner" style="min-width: 300 ;max-width: 400; width: 100%">
     </td>
   </tr>
 </table>
