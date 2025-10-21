@@ -1,4 +1,4 @@
-<h1 align="center" style="color: lightblue;">Hello guys!<br>I'm João Dias 👋</h1>
+<h1 align="center" style="color: lightblue;">Hello guys!<br>I'm João Dias</h1>
 
 <table>
   <tr>
