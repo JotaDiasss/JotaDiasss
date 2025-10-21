@@ -26,7 +26,7 @@
       </a>
     </td>
     <td align="center" width="30%">
-      <img src="./Banner.png" alt="Banner" width="400">
+      <img src="./Banner.png" alt="Banner" style="max-width: 400px;">
     </td>
   </tr>
 </table>
