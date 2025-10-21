@@ -5,7 +5,7 @@
   Atualmente estou no primeiro período de Ciência da Computação na Cesar School.
 </p>
 
-<p align="left" style="backgournd-color: red;">
+<p align="left">
   🦄 <strong>Linguagens:</strong> HTML, CSS, JavaScript, Python, C++
 </p>
 
