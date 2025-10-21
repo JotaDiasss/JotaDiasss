@@ -1,27 +1,33 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right" style="min-width: 400px; max-width: 400px;">
+<h1 style="color: lightblue" align="center"> Hello guys!<br>i'm João Dias</h1>
+<div>
+  <img src="./Banner.png" alt="Banner" align="right" style="max-width: 400px">
+  <div align="center">
+    <p>My top languages</p>
+    <img src="https://img.icons8.com/?size=100&id=23028&format=png&color=FFFFFF" alt="HTML" style="max-width: 40px">
+    <img src="https://img.icons8.com/?size=100&id=39854&format=png&color=FFFFFF" alt="JavaScript" style="max-width: 45px">
+    <img src="https://img.icons8.com/?size=100&id=047WZAFDnkVp&format=png&color=FFFFFF" alt="React" style="max-width: 40px">
+    <img src="https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=FFFFFF" alt="TypeScript" style="max-width: 40">
+    <img src="https://img.icons8.com/?size=100&id=38272&format=png&color=FFFFFF" alt="CSS" style="max-width: 40px">
+  </div>
 
-<p align="left"> 
-  Olá, meu nome é João Pedro, tenho 18 anos, gosto de jogos e tenho interesse na área de Front-End.<br>
-  Atualmente estou no primeiro período de Ciência da Computação na Cesar School.
-</p>
+  ---
 
-<p align="left">
-  🦄 <strong>Linguagens:</strong> HTML, CSS, JavaScript, Python, C++
-</p>
+  <div align="center">
+    <p>My top tools</p>
+    <img src="https://img.icons8.com/?size=100&id=9t5UEEYXq0ZS&format=png&color=FFFFFF" alt="VisualStudioCode" style="max-width: 40px">
+    <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=FFFFFF" alt="Github" style="max-width: 40px">
+    <img src="https://img.icons8.com/?size=100&id=amXjtNWVYSKP&format=png&color=FFFFFF" alt="Figma" style="max-width: 40px">
+    <img src="https://img.icons8.com/?size=100&id=HDd694003FZa&format=png&color=FFFFFF" alt="Notion" style="max-width: 40px">
+    <img src="https://img.icons8.com/?size=100&id=11594&format=png&color=FFFFFF" alt="Excel" style="max-width: 40px">
+  </div>
 
-<p align="left">
-  💼 <strong>Ferramentas:</strong> Visual Studio Code, Figma, Notion, Markdown, Arduino IDE
-</p>
+  ---
 
-<p align="left">
-  💌 Fale comigo por e-mail ou LinkedIn! ⤵️
-</p>
-
-<p align="left">
-  <a href="mailto:joaopefdias@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/jotadiasss" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+  <div align="center">
+    <p>Contact me</p>
+    <a href="https://linkedin.com/in/jotadiasss" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-white
+    " alt="LinkedIn" style="border-radius: 4px; height: 28px"></a>
+    <a href="mailto:joaopefdias@gmail.com" title="Email" target="_blank"><img src="https://img.shields.io/badge/Email-white
+    " alt="Email" style="border-radius: 4px; height: 28px"></a>
+  </div>
+</div>
