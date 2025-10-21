@@ -21,7 +21,7 @@
       <a href="https://linkedin.com/in/jotadiasss" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=0A66C2" height="25" alt="LinkedIn">
       </a>
-      <a href="mailto:joaopefdias@gmail.com" target="_blank">
+      <a href="mailto:joaopefdias@gmail.com" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Email-white" height="25" alt="Email">
       </a>
     </td>
